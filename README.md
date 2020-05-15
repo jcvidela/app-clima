@@ -1,13 +1,10 @@
 # app-clima
-Aplicacion de consola hecha en nodejs para determinar el clima de una región/zona,
+Console application written in node js for determining wheather in region desidered
 
-Comandos:
-Para enviar informacion a traves de consola utilizar:
+Commands avaible:
 ```
 node app -d "zona o región"
 ```
-
-para instalar los paquetes utilizar:
 ```
 npm install
 ```
